@@ -1,0 +1,1 @@
+Inspired by [this discussion](https://github.com/dart-lang/sdk/issues/36765#issuecomment-487948124).

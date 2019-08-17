@@ -1,0 +1,11 @@
+name: quantaly_lints
+description: The lints I like.
+version: 1.0.0
+homepage: https://github.com/Quantaly/dart_lints
+author: Kai Page <kaibug@gmail.com>
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  pedantic: ^1.0.0
