@@ -28,7 +28,7 @@ linter:
     - prefer_void_to_null
     - sort_child_properties_last
     - sort_pub_dependencies
-    - type_annotate_public_apis
+  # - type_annotate_public_apis # no
     - unnecessary_await_in_return
     - unnecessary_brace_in_string_interps
     - unnecessary_lambdas
